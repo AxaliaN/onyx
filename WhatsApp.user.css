@@ -1107,7 +1107,11 @@
 
     /* Fullscreen. */
     /*[[fullscreen]]*/
-
+    .app-wrapper-web ._3dqpi {
+        top: 0px;
+        height: 100%;
+        width: 100%;
+    }
     /* App background. */
     /*[[background]]*/
   }
