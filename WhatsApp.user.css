@@ -29,9 +29,7 @@
     bottom: 0px; left: 0px;
     height: auto; width: auto;
     background-color: var(--dark) !important;
-    background-image: var(--image) !important;
-    background-repeat: no-repeat;
-    background-size: cover; } EOT;
+ } EOT;
   bg2 "Your custom image" <<<EOT
   ._1FKgS::after {
     top: 0px; right: 0px;
